@@ -18,7 +18,7 @@
 - **Browser APIs:** Web Speech API, Clipboard API, Web Storage (Local Storage) 
 
 ## 📸 Screenshots
-![TextTools Main Dashboard](screenshots/dashboard.png)
+![TextTools Main Dashboard](dashboard.png)
 
 ## 🚀 Quick Start
 
